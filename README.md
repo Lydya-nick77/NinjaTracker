@@ -60,7 +60,7 @@ themed panel; its palette and styling are defined by the addon.
 
 `lock` toggles dragging. `size` accepts font heights from 8 to 40.
 `reload` reads saved settings; `reset` restores defaults.
-`/ninjatracker` also accepts all commands. The old `/ninjatools` prefix is not supported.
+`/ninjatracker` also accepts all commands.
 
 ## Shadow cancellation
 
