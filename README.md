@@ -9,13 +9,6 @@ and Utsusemi recast timers.
 /addon load NinjaTracker
 ```
 
-Optionally add `/addon load NinjaTracker` to your existing startup script.
-When upgrading from ninjatools, first run `/addon unload ninjatools`, then load
-NinjaTracker. Replace the old load command in your startup script.
-Settings now use the NinjaTracker settings folder. To retain old settings,
-copy your old `config/addons/ninjatools` folder to `config/addons/NinjaTracker` while both
-addons are unloaded, provided the destination does not already exist.
-
 ## Display
 
 - Tool quantities turn gold below 20 and red at zero. The shadow indicator turns
