@@ -3,6 +3,8 @@
 An Ashita v4 addon showing ninja-tool quantities, remaining Utsusemi shadows,
 and Utsusemi recast timers.
 
+![NinjaTracker](ninjatracker.png)
+
 ## Loading
 
 ```text
